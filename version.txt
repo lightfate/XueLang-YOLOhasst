@@ -1,0 +1,11 @@
+²Ù×÷ÏµÍ³£ºwin10 
+Anaconda3(python 3.5)
+
+Main Package£º
+keras£º(2.1.5)
+keras-spp£º(0.0.0)
+opencv-python:(3.4.1)
+tensorboard :(1.6.0)
+tensorflow-gpu: (1.4.0)
+tensorflow-tensorboard: (0.4.0)
+
