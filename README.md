@@ -1,6 +1,30 @@
-# README
+# 视觉计算辅助良品检测
 
-使用步骤：
+- 参赛地址：[雪浪制造AI挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=a2c22.11695015.1131732.1.4ea25275NNvZuf&raceId=231666) 
+
+
+----------
+
+# YOLOhasst
+
+
+  - ##  You Only Look One hundred and sixty-six times
+  
+
+
+ ###### 注： [训练好的模型]()
+
+
+
+
+  
+
+
+
+
+
+
+#使用步骤：
 
 1.在data文件夹中新建一个official文件夹，将训练数据解压后放入新建的.\data\official文件夹中
 
