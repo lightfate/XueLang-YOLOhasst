@@ -59,4 +59,10 @@ YOLOhasst是一种'快速'的瑕疵检测方法，它使用了全局检测和局
 
 1.程序运行过程中会生成训练所需的cut和resize图片并保存在data目录下的对应文件夹中，若第一次运行后已生成图片，第二次运行可跳过cell2-4，直接从Train Model A开始；或者删除生成的中间文件夹，仅保留data\official文件夹，然后重头运行，避免重复保存中间图片。
 
+# 比赛数据下载：
+
+链接：https://pan.baidu.com/s/1Mi2brFATDDyPOpsBFUKgJQ 
+
+密码：1z3p
+
 ### PS：有任何问题，可以联系我们（QQ:995187509 邮箱：995187509@qq.com)
