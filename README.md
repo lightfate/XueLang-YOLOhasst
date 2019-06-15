@@ -64,5 +64,3 @@ YOLOhasst是一种'快速'的瑕疵检测方法，它使用了全局检测和局
 链接：https://pan.baidu.com/s/1Mi2brFATDDyPOpsBFUKgJQ 
 
 密码：1z3p
-
-### PS：有任何问题，可以联系我们（QQ:995187509 邮箱：995187509@qq.com)
